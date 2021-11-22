@@ -1,6 +1,6 @@
 _Use this file to detail how to make a contribution to the project. The structure below is generally recommended, but can be changed to meet the needs of the project_
 
-# Contributing to PROJECT NAME
+# Contributing to SEAPATH
 
 Thank you for your interest in contributing to PROJECT NAME. This document explains our contribution process and procedures:
 
