@@ -25,8 +25,8 @@ _Provide build instructions here or point to an BUILD.md file_
 
 You can connect with the community in a variety of ways...
 
-- [LINK TO MAILING LIST](https://lists.lfenergy.org/g/xxxx-discussion)
-- [#PROJECT NAME channel on LF Energy Slack](https://slack.lfenergy.org)
+- [LINK TO MAILING LIST](https://lists.lfenergy.org/g/SEAPATH-TSC)
+- [SEAPATH channel on LF Energy Slack](https://lfenergy.slack.com/archives/C01EH8ZLJTC)
 
 ## Contributing
 Anyone can contribute to the PROJECT NAME project - learn more at [CONTRIBUTING.md](CONTRIBUTING.md)
